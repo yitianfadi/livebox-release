@@ -1,7 +1,7 @@
 {
   "versionCode": 203,
   "versionName": "2.0.3",
-  "apkUrl": "https://gitee.com/yitianfadi/livebox-release/releases/download/v2.0.3/livebox-2.0.3.apk",
+  "apkUrl": "https://gitee.com/yitianfadi/livebox-release/releases/download/2.0.3/livebox-2.0.3.apk",
   "notes": "新增应用内检查更新；新增点播（苹果CMS采集接口）；TVBox 配置支持 txt 格式与相对路径；设置页整行可点并按功能重排；播放页隐藏状态栏、去掉退出按钮",
   "minVersionCode": 0,
   "pubTime": "2026-10-18 20:30"
