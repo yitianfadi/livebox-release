@@ -1,0 +1,568 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-24 17:01",
+  "groups": [
+    "推荐",
+    "综合直播",
+    "TVBox 配置",
+    "IPv6",
+    "广播",
+    "大合集",
+    "其他索引"
+  ],
+  "sources": [
+    {
+      "name": "qist 综合直播（tvlive）",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/tvlive.txt",
+      "size": "155KB",
+      "group": "推荐",
+      "channels": 1420,
+      "badge": "",
+      "note": "运营商组播较多，公网/无 IPv6 时会有离线，属正常",
+      "mirrors": [
+        "https://qist.wyfc.qzz.io/tvlive.txt",
+        "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/tvlive.txt",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/tvlive.txt",
+        "https://ghfast.top/https://raw.githubusercontent.com/qist/tvbox/master/tvlive.txt"
+      ]
+    },
+    {
+      "name": "范明明 · 综合电视（itv）",
+      "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u",
+      "size": "48KB",
+      "group": "推荐",
+      "channels": 189,
+      "badge": "",
+      "note": "国内直连可用，含 CCTV/卫视",
+      "mirrors": [
+        "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u",
+        "https://ghfast.top/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u"
+      ]
+    },
+    {
+      "name": "ChinaIPTV · 央视卫视（cnTV1）",
+      "url": "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV1_ALL.m3u8",
+      "size": "90KB",
+      "group": "推荐",
+      "channels": 294,
+      "badge": "",
+      "note": "实时更新的 cnTV 列表",
+      "mirrors": [
+        "https://ghproxy.net/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV1_ALL.m3u8",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV1_ALL.m3u8",
+        "https://ghfast.top/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV1_ALL.m3u8"
+      ]
+    },
+    {
+      "name": "wwb521 · 综合直播",
+      "url": "https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "size": "16KB",
+      "group": "推荐",
+      "channels": 136,
+      "badge": "",
+      "note": "TVBox 0826 配置里引用的源",
+      "mirrors": [
+        "https://ghproxy.net/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+        "https://ghfast.top/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u"
+      ]
+    },
+    {
+      "name": "qist · list.m3u",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/list.m3u",
+      "size": "87KB",
+      "group": "综合直播",
+      "channels": 824,
+      "badge": "",
+      "note": "移动 CDN 为主，CCTV/卫视较全",
+      "mirrors": [
+        "https://qist.wyfc.qzz.io/list.m3u",
+        "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/list.m3u",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/list.m3u",
+        "https://ghfast.top/https://raw.githubusercontent.com/qist/tvbox/master/list.m3u"
+      ]
+    },
+    {
+      "name": "qist · list.txt（带分组）",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/list.txt",
+      "size": "16KB",
+      "group": "综合直播",
+      "channels": 202,
+      "badge": "",
+      "note": "同名台有多条线路",
+      "mirrors": [
+        "https://qist.wyfc.qzz.io/list.txt",
+        "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/list.txt",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/list.txt",
+        "https://ghfast.top/https://raw.githubusercontent.com/qist/tvbox/master/list.txt"
+      ]
+    },
+    {
+      "name": "Supprise · TVBox_live",
+      "url": "https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+      "size": "106KB",
+      "group": "综合直播",
+      "channels": 300,
+      "badge": "",
+      "note": "河南地方台为主，频道很多",
+      "mirrors": [
+        "https://ghproxy.net/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+        "https://ghfast.top/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt"
+      ]
+    },
+    {
+      "name": "akiralereal · IPTV",
+      "url": "https://raw.githubusercontent.com/akiralereal/iptv/main/IPTV.m3u",
+      "size": "8KB",
+      "group": "综合直播",
+      "channels": 30,
+      "badge": "",
+      "note": "",
+      "mirrors": [
+        "https://ghproxy.net/https://raw.githubusercontent.com/akiralereal/iptv/main/IPTV.m3u",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/akiralereal/iptv/main/IPTV.m3u",
+        "https://ghfast.top/https://raw.githubusercontent.com/akiralereal/iptv/main/IPTV.m3u"
+      ]
+    },
+    {
+      "name": "kimwang · live",
+      "url": "https://raw.githubusercontent.com/kimwang1978/collect-txt/main/live.m3u",
+      "size": "1KB",
+      "group": "综合直播",
+      "channels": 6,
+      "badge": "",
+      "note": "自动整理源，体积小",
+      "mirrors": [
+        "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-txt/main/live.m3u",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-txt/main/live.m3u",
+        "https://ghfast.top/https://raw.githubusercontent.com/kimwang1978/collect-txt/main/live.m3u"
+      ]
+    },
+    {
+      "name": "ChinaIPTV · 分组索引",
+      "url": "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/grouped.m3u8",
+      "size": "1KB",
+      "group": "综合直播",
+      "channels": 9,
+      "badge": "",
+      "note": "频道分布在同仓库各分组文件里",
+      "mirrors": [
+        "https://ghproxy.net/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/grouped.m3u8",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/grouped.m3u8",
+        "https://ghfast.top/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/grouped.m3u8"
+      ]
+    },
+    {
+      "name": "zbefine · iptv",
+      "url": "https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u",
+      "size": "137KB",
+      "group": "综合直播",
+      "channels": 1286,
+      "badge": "",
+      "note": "2026-10-18 实测 1286 台",
+      "mirrors": [
+        "https://ghproxy.net/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u",
+        "https://ghfast.top/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u"
+      ]
+    },
+    {
+      "name": "suxuang · myIPTV",
+      "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+      "size": "269KB",
+      "group": "综合直播",
+      "channels": 1211,
+      "badge": "",
+      "note": "2026-10-18 实测 1211 台",
+      "mirrors": [
+        "https://ghproxy.net/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+        "https://ghfast.top/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u"
+      ]
+    },
+    {
+      "name": "vbskycn · iptv4（txt）",
+      "url": "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt",
+      "size": "55KB",
+      "group": "综合直播",
+      "channels": 673,
+      "badge": "",
+      "note": "2026-10-18 实测 673 台",
+      "mirrors": [
+        "https://ghproxy.net/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt",
+        "https://ghfast.top/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt"
+      ]
+    },
+    {
+      "name": "虎牙一起看",
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "size": "220KB",
+      "group": "综合直播",
+      "channels": 1118,
+      "badge": "",
+      "note": "直播平台的「一起看」频道，与电视直播互补",
+      "mirrors": []
+    },
+    {
+      "name": "斗鱼一起看",
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "size": "178KB",
+      "group": "综合直播",
+      "channels": 935,
+      "badge": "",
+      "note": "",
+      "mirrors": []
+    },
+    {
+      "name": "YY 轮播",
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "size": "112KB",
+      "group": "综合直播",
+      "channels": 527,
+      "badge": "",
+      "note": "",
+      "mirrors": []
+    },
+    {
+      "name": "iptv.php（直连）",
+      "url": "http://193.123.86.190:14888/TV/iptv.php",
+      "size": "42KB",
+      "group": "综合直播",
+      "channels": 188,
+      "badge": "",
+      "note": "不依赖 GitHub，国内直连可用",
+      "mirrors": []
+    },
+    {
+      "name": "qist fty（多源）",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/fty.json",
+      "size": "13KB",
+      "group": "TVBox 配置",
+      "channels": 6,
+      "badge": "需确认",
+      "note": "带 6 个直播子源；是否连带导入点播站点由设置决定",
+      "mirrors": [
+        "https://qist.wyfc.qzz.io/fty.json",
+        "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/fty.json",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/fty.json",
+        "https://ghfast.top/https://raw.githubusercontent.com/qist/tvbox/master/fty.json"
+      ]
+    },
+    {
+      "name": "qist 0821（多线路）",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/0821.json",
+      "size": "23KB",
+      "group": "TVBox 配置",
+      "channels": 16,
+      "badge": "需确认",
+      "note": "带 16 个直播子源，频道量最大的一份配置",
+      "mirrors": [
+        "https://qist.wyfc.qzz.io/0821.json",
+        "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/0821.json",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/0821.json",
+        "https://ghfast.top/https://raw.githubusercontent.com/qist/tvbox/master/0821.json"
+      ]
+    },
+    {
+      "name": "qist jsm（含 3 直播）",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "size": "46KB",
+      "group": "TVBox 配置",
+      "channels": 3,
+      "badge": "需确认",
+      "note": "点播站点很多（152），建议先关「连带导入点播站点」再导",
+      "mirrors": [
+        "https://qist.wyfc.qzz.io/jsm.json",
+        "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+        "https://ghfast.top/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"
+      ]
+    },
+    {
+      "name": "fmml IPv6 组播",
+      "url": "https://m3u.ibert.me/txt/fmml_ipv6.txt",
+      "size": "15KB",
+      "group": "IPv6",
+      "channels": 82,
+      "badge": "IPv6",
+      "note": "没有 IPv6 网络的地区不可用",
+      "mirrors": []
+    },
+    {
+      "name": "范明明 IPv6",
+      "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+      "size": "25KB",
+      "group": "IPv6",
+      "channels": 82,
+      "badge": "IPv6",
+      "note": "需 IPv6 网络",
+      "mirrors": [
+        "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+        "https://ghfast.top/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
+      ]
+    },
+    {
+      "name": "qist 广播电台",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/radio.m3u",
+      "size": "157KB",
+      "group": "广播",
+      "channels": 1478,
+      "badge": "音频",
+      "note": "只有声音，播放页画面黑屏属正常",
+      "mirrors": [
+        "https://qist.wyfc.qzz.io/radio.m3u",
+        "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/master/radio.m3u",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/radio.m3u",
+        "https://ghfast.top/https://raw.githubusercontent.com/qist/tvbox/master/radio.m3u"
+      ]
+    },
+    {
+      "name": "CCSH · live（大合集）",
+      "url": "https://raw.githubusercontent.com/CCSH/IPTV/main/live.m3u",
+      "size": "660KB",
+      "group": "大合集",
+      "channels": 2495,
+      "badge": "需确认",
+      "note": "文件大、频道多，导入要几十秒；失效比例也高",
+      "mirrors": [
+        "https://ghproxy.net/https://raw.githubusercontent.com/CCSH/IPTV/main/live.m3u",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/main/live.m3u",
+        "https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/main/live.m3u"
+      ]
+    },
+    {
+      "name": "Kimentanm aptv",
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "size": "22KB",
+      "group": "其他索引",
+      "channels": 120,
+      "badge": "",
+      "note": "",
+      "mirrors": [
+        "https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+        "https://ghfast.top/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+      ]
+    },
+    {
+      "name": "iptv-org · 中国",
+      "url": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+      "size": "30KB",
+      "group": "其他索引",
+      "channels": 0,
+      "badge": "",
+      "note": "官方公开索引，国内可播比例偏低",
+      "mirrors": []
+    },
+    {
+      "name": "iptv-org · 中文",
+      "url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+      "size": "43KB",
+      "group": "其他索引",
+      "channels": 0,
+      "badge": "",
+      "note": "",
+      "mirrors": []
+    },
+    {
+      "name": "iptv-org · 新闻",
+      "url": "https://iptv-org.github.io/iptv/categories/news.m3u",
+      "size": "231KB",
+      "group": "其他索引",
+      "channels": 0,
+      "badge": "",
+      "note": "",
+      "mirrors": []
+    },
+    {
+      "name": "iptv-org · 体育",
+      "url": "https://iptv-org.github.io/iptv/categories/sports.m3u",
+      "size": "118KB",
+      "group": "其他索引",
+      "channels": 0,
+      "badge": "",
+      "note": "",
+      "mirrors": []
+    },
+    {
+      "name": "iptv-org · 少儿",
+      "url": "https://iptv-org.github.io/iptv/categories/kids.m3u",
+      "size": "105KB",
+      "group": "其他索引",
+      "channels": 0,
+      "badge": "",
+      "note": "",
+      "mirrors": []
+    },
+    {
+      "name": "iptv-org · 影视",
+      "url": "https://iptv-org.github.io/iptv/categories/movies.m3u",
+      "size": "207KB",
+      "group": "其他索引",
+      "channels": 0,
+      "badge": "",
+      "note": "",
+      "mirrors": []
+    },
+    {
+      "name": "iptv-org · 音乐",
+      "url": "https://iptv-org.github.io/iptv/categories/music.m3u",
+      "size": "162KB",
+      "group": "其他索引",
+      "channels": 0,
+      "badge": "",
+      "note": "",
+      "mirrors": []
+    },
+    {
+      "name": "iptv-org · 纪录片",
+      "url": "https://iptv-org.github.io/iptv/categories/documentary.m3u",
+      "size": "75KB",
+      "group": "其他索引",
+      "channels": 0,
+      "badge": "",
+      "note": "",
+      "mirrors": []
+    },
+    {
+      "name": "iptv-org · 中国香港",
+      "url": "https://iptv-org.github.io/iptv/countries/hk.m3u",
+      "size": "4KB",
+      "group": "其他索引",
+      "channels": 0,
+      "badge": "",
+      "note": "",
+      "mirrors": []
+    },
+    {
+      "name": "iptv-org · 中国台湾",
+      "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
+      "size": "5KB",
+      "group": "其他索引",
+      "channels": 0,
+      "badge": "",
+      "note": "",
+      "mirrors": []
+    },
+    {
+      "name": "iptv-org · 中国澳门",
+      "url": "https://iptv-org.github.io/iptv/countries/mo.m3u",
+      "size": "2KB",
+      "group": "其他索引",
+      "channels": 0,
+      "badge": "",
+      "note": "",
+      "mirrors": []
+    },
+    {
+      "name": "iptv-org · 全球分组",
+      "url": "https://iptv-org.github.io/iptv/index.country.m3u",
+      "size": "303KB",
+      "group": "其他索引",
+      "channels": 0,
+      "badge": "",
+      "note": "",
+      "mirrors": []
+    },
+    {
+      "name": "iptv-org · 全球全量（慎用）",
+      "url": "https://iptv-org.github.io/iptv/index.m3u",
+      "size": "643KB",
+      "group": "其他索引",
+      "channels": 0,
+      "badge": "需确认",
+      "note": "文件大、频道极多，导入慢",
+      "mirrors": []
+    },
+    {
+      "name": "clun.top box（多源）",
+      "url": "https://clun.top/box.json",
+      "size": "31KB",
+      "group": "TVBox 配置",
+      "channels": 17,
+      "badge": "需确认",
+      "note": "17 个直播子源（含 ./lib/iptv.m3u）+ 20 个 type:1 点播站；失效子源会逐个跳过",
+      "mirrors": []
+    },
+    {
+      "name": "clun.top · 主列表（大合集）",
+      "url": "https://clun.top/lib/iptv.m3u",
+      "size": "1.2MB",
+      "group": "大合集",
+      "channels": 7163,
+      "badge": "需确认",
+      "note": "7163 台 / 35 分组，2026-10-23 抽样约 60% 在线；含 IPv4/IPv6 与运营商线路，导入较慢",
+      "mirrors": []
+    },
+    {
+      "name": "clun.top · 测试列表",
+      "url": "https://clun.top/lib/iptv_test.m3u",
+      "size": "489KB",
+      "group": "综合直播",
+      "channels": 2797,
+      "badge": "需确认",
+      "note": "2797 台 / 92 分组，2026-10-23 抽样约 47% 在线；CCTV/卫视为主",
+      "mirrors": []
+    },
+    {
+      "name": "Guovin · iptv-api",
+      "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+      "size": "387KB",
+      "group": "综合直播",
+      "channels": 1619,
+      "badge": "",
+      "note": "自动更新的综合列表，CCTV/卫视为主；2026-10-23 抽样约 27% 在线",
+      "mirrors": [
+        "https://ghproxy.net/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+        "https://ghfast.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
+      ]
+    },
+    {
+      "name": "mlzlzj · TV",
+      "url": "https://raw.githubusercontent.com/mlzlzj/TV/main/output/result.m3u",
+      "size": "504KB",
+      "group": "综合直播",
+      "channels": 2024,
+      "badge": "",
+      "note": "2026-10-23 抽样约 20% 在线；含 85 条 RTMP 线路",
+      "mirrors": [
+        "https://ghproxy.net/https://raw.githubusercontent.com/mlzlzj/TV/main/output/result.m3u",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/mlzlzj/TV/main/output/result.m3u",
+        "https://ghfast.top/https://raw.githubusercontent.com/mlzlzj/TV/main/output/result.m3u"
+      ]
+    },
+    {
+      "name": "YanG · 咪咕/移动",
+      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "size": "21KB",
+      "group": "其他索引",
+      "channels": 123,
+      "badge": "",
+      "note": "咪咕/移动系直播，2026-10-23 抽样约 30% 在线；box.json 原地址多写了一层 https，这里已修正",
+      "mirrors": [
+        "https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+        "https://ghfast.top/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"
+      ]
+    },
+    {
+      "name": "gambiarras · legal-iptv",
+      "url": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+      "size": "563KB",
+      "group": "其他索引",
+      "channels": 1260,
+      "badge": "",
+      "note": "海外合法 IPTV（巴西/葡语为主），中文频道少；2026-10-23 抽样约 30% 在线",
+      "mirrors": [
+        "https://ghproxy.net/https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "https://ghfast.top/https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u"
+      ]
+    }
+  ]
+}
