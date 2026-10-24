@@ -1,8 +1,8 @@
 {
-  "versionCode": 203,
-  "versionName": "2.0.3",
-  "apkUrl": "https://github.com/yitianfadi/livebox-release/releases/download/2.0.3/livebox-2.0.3.apk",
-  "notes": "新增应用内检查更新；新增点播（苹果CMS采集接口）；TVBox 配置支持 txt 格式与相对路径；设置页整行可点并按功能重排；播放页隐藏状态栏、去掉退出按钮",
+  "versionCode": 213,
+  "versionName": "2.1.3",
+  "apkUrl": "https://github.com/yitianfadi/livebox-release/releases/download/2.1.3/livebox-2.1.3.apk",
+  "notes": "点播改为首页，直播收进内层；下载管理升级：最多 3 个并发、断点续传、按视频折叠显示封面简介、运行中可删除，切后台/锁屏继续下载；直播与点播预设迁到远程目录，设置里可手动检查源更新；播放支持 RTSP/FLV/MKV/TS/AVI/RTMP/DASH；修复下载卡顿、内存溢出、文件不存在等问题",
   "minVersionCode": 0,
-  "pubTime": "2026-10-18 20:30"
+  "pubTime": "2026-10-24 18:11"
 }

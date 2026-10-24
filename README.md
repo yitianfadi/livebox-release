@@ -18,4 +18,4 @@
 - 检查更新：`https://raw.githubusercontent.com/yitianfadi/livebox-release/master/update.json`
 - 直播预设：`https://raw.githubusercontent.com/yitianfadi/livebox-release/master/presets/live.json`
 - 点播预设：`https://raw.githubusercontent.com/yitianfadi/livebox-release/master/presets/vod.json`
-- 附件直链示例：`https://github.com/yitianfadi/livebox-release/releases/download/2.0.3/livebox-2.0.3.apk`
+- 附件直链示例：`https://github.com/yitianfadi/livebox-release/releases/download/2.1.3/livebox-2.1.3.apk`
